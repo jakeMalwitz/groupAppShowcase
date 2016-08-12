@@ -1,0 +1,25 @@
+{
+ "array" : [
+  {
+  "name" : "Jake",
+  "bio" : "I like Dragons and stuff. I also enjoy basketball.",
+  "image" : "../info/images/jake.jpg",
+  "likes" : "0"
+},
+{
+  "name": "Denny",
+  "bio": "I don't like dragons and stuff. I do not enjoy basketball",
+  "image": "../info/images/cat.jpg"
+},
+{
+  "name": "Liz",
+  "bio": "Former goth wannabe, future Wimbledon champion.",
+  "image": "../info/images/liz.jpg"
+},
+{
+  "name": "Dave",
+  "bio": "Current former teacher, 2015 Muskie Fly Fishing World Champion",
+  "image": "../info/images/muskie.jpg"
+}
+ ]
+}
